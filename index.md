@@ -1,4 +1,3 @@
-<!-- index.md -->
 ---
 layout: default
 title: Welcome
@@ -8,4 +7,3 @@ title: Welcome
   <img src="assets/under-construction.png" alt="Website Under Construction" width="300">
 </p>
 
-# Coming Soon!
